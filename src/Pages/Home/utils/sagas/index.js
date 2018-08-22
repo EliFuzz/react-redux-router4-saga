@@ -1,3 +1,1 @@
-export default function*() {
-    console.log('Home Saga');
-}
+export default function*() {}
