@@ -7,7 +7,7 @@ describe("<NavigationItem />", () => {
   let wrapper;
 
   beforeEach(() => {
-    wrapper = shallow(<NavigationItem />);
+    wrapper = shallow(<NavigationItem link="/" />);
   });
 
   afterEach(() => {
