@@ -10,6 +10,21 @@
 
 ---
 
+<p>
+
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/EliFuzz/react-redux-router4-saga/blob/master/LICENSE)
+
+[![GitHub](https://img.shields.io/badge/node-10.9.0-teal.svg)](https://nodejs.org/)
+[![GitHub](https://img.shields.io/badge/yarn-1.9.4-teal.svg)](https://yarnpkg.com/)
+
+[![GitHub](https://img.shields.io/badge/react-^16.4-dodgerblue.svg)](https://reactjs.org/)
+[![GitHub](https://img.shields.io/badge/redux-^4-dodgerblue.svg)](https://redux.js.org/)
+[![GitHub](https://img.shields.io/badge/saga-^0.16-dodgerblue.svg)](https://redux-saga.js.org/)
+
+</p>
+
+---
+
 ## Installation:
 1. Clone repository:
 <pre class="command-line">
