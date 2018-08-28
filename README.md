@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://travis-ci.org/EliFuzz/react-redux-router4-saga.svg?branch=master" alt="travis-ci">
+</p>
+
 <p>
 
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/EliFuzz/react-redux-router4-saga/blob/master/LICENSE)
