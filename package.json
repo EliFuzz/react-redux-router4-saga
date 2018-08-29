@@ -25,9 +25,5 @@
     "test": "react-scripts test --env=jsdom ",
     "eject": "react-scripts eject",
     "coverage": "codecov"
-  },
-  "jest": {
-    "coverageDirectory": "./coverage/",
-    "collectCoverage": true
   }
 }
