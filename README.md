@@ -11,9 +11,11 @@
 ---
 
 <p align="center">
-  <img src="https://travis-ci.org/EliFuzz/react-redux-router4-saga.svg?branch=master" alt="travis-ci">
-  <a href="https://codecov.io/gh/EliFuzz/react-redux-router4-saga">
-    <img src="https://codecov.io/gh/EliFuzz/react-redux-router4-saga/branch/master/graph/badge.svg" />
+  <a href="https://travis-ci.org/EliFuzz/react-redux-router4-saga" target="_blank">
+    <img src="https://travis-ci.org/EliFuzz/react-redux-router4-saga.svg?branch=master" alt="travis-ci">
+  </a>
+  <a href="https://codecov.io/gh/EliFuzz/react-redux-router4-saga" target="_blank">
+    <img src="https://codecov.io/gh/EliFuzz/react-redux-router4-saga/branch/master/graph/badge.svg" alt="codecov"/>
   </a>
 </p>
 
