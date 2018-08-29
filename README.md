@@ -12,6 +12,9 @@
 
 <p align="center">
   <img src="https://travis-ci.org/EliFuzz/react-redux-router4-saga.svg?branch=master" alt="travis-ci">
+  <a href="https://codecov.io/gh/EliFuzz/react-redux-router4-saga">
+    <img src="https://codecov.io/gh/EliFuzz/react-redux-router4-saga/branch/master/graph/badge.svg" />
+  </a>
 </p>
 
 <p>
