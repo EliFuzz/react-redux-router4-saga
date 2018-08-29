@@ -9,6 +9,6 @@ env:
   - REACT=16.4
 sudo: false
 script:
-- npm run test
+- npm run test:ci
 after_success:
 - npm run coverage
