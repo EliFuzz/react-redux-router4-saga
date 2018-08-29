@@ -21,7 +21,7 @@
     <img src="https://david-dm.org/EliFuzz/react-redux-router4-saga.svg" alt="david-dm"/>
   </a>
   <a href="https://david-dm.org/EliFuzz/react-redux-router4-saga?type=dev" target="_blank">
-     <img src="https://david-dm.org/EliFuzz/react-redux-router4-saga.svg?type=dev" alt="david-dm-dev"/>
+     <img src="https://david-dm.org/EliFuzz/react-redux-router4-saga/dev-status.svg" alt="david-dm-dev"/>
    </a>
 </p>
 
