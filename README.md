@@ -17,6 +17,12 @@
   <a href="https://codecov.io/gh/EliFuzz/react-redux-router4-saga" target="_blank">
     <img src="https://codecov.io/gh/EliFuzz/react-redux-router4-saga/branch/master/graph/badge.svg" alt="codecov"/>
   </a>
+  <a href="https://david-dm.org/EliFuzz/react-redux-router4-saga" target="_blank">
+    <img src="https://david-dm.org/EliFuzz/react-redux-router4-saga.svg" alt="david-dm"/>
+  </a>
+  <a href="https://david-dm.org/EliFuzz/react-redux-router4-saga?type=dev" target="_blank">
+     <img src="https://david-dm.org/EliFuzz/react-redux-router4-saga.svg?type=dev" alt="david-dm-dev"/>
+   </a>
 </p>
 
 <p>
