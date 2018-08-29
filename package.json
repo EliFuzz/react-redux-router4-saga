@@ -26,5 +26,14 @@
     "test:ci": "react-scripts test --env=jsdom --coverage",
     "coverage": "codecov",
     "eject": "react-scripts eject"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!src/store/**",
+      "!src/**/index.js",
+      "!src/registerServiceWorker.js",
+      "!src/rootReducers.js"
+    ]
   }
 }
